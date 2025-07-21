@@ -17,3 +17,11 @@ The USMLE dataset is a multilingual multiple-choice question dataset based on th
 source: https://paperswithcode.com/dataset/medqa-usmle
 
 data: https://drive.google.com/file/d/1ImYUSLk9JbgHXOemfvyiDiirluZHPeQw/view
+
+
+
+
+
+source: https://github.com/Andy-jqa/biomedical-qa-datasets?tab=readme-ov-file#mediqa-qa
+
+data: https://drive.usercontent.google.com/download?id=1ytVZ4AhubFDOEL7o7XrIRIyhU8g9wvKA&export=download&authuser=0
