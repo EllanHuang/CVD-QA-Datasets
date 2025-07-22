@@ -1,8 +1,10 @@
 # CVD-QA-Datasets
 
-## Sources
+## Multiple Choice Sources
 
 **1. MedMCQA**
+
+cardiovascular-related data: 1159, 4 choices, English
 
 MedMCQA is a large-scale multiple-choice question dataset with over 194,000 high-quality questions from AIIMS and NEET PG medical entrance exams. Covering 21 medical subjects and 2,400+ topics, each question includes answer choices, the correct answer, and a detailed explanation. Designed to test a wide range of reasoning skills, it supports the development of advanced medical QA systems in the NLP community.
 
@@ -12,6 +14,8 @@ data: https://drive.google.com/uc?export=download&id=15VkJdq5eyWIkfb_aoD3oS8i4tS
 
 **2. USMLE**
 
+cardiovascular-related data: 1100, 4 choices, English; 682, 4 choices, Chinese
+
 The USMLE dataset is a multilingual multiple-choice question dataset based on the United States Medical Licensing Exams (USMLE), containing 12,723 English, 34,251 simplified Chinese, and 14,123 traditional Chinese questions, supporting medical QA across languages.
 
 source: https://paperswithcode.com/dataset/medqa-usmle
@@ -20,9 +24,19 @@ data: https://drive.google.com/file/d/1ImYUSLk9JbgHXOemfvyiDiirluZHPeQw/view
 
 **3. CMB**
 
+cardiovascular-related data: 1580, 5 choices, Chinese
+
 source: https://github.com/FreedomIntelligence/CMB
 
 data: https://github.com/FreedomIntelligence/CMB/blob/main/data/CMB.zip
+
+**4. UCSC-VLAA**
+
+cardiovascular-related data: 1225, 4 choices, English
+
+source: https://huggingface.co/datasets/UCSC-VLAA/MedReason
+
+
 
 
 
@@ -34,3 +48,8 @@ data: https://drive.usercontent.google.com/download?id=1ytVZ4AhubFDOEL7o7XrIRIyh
 中文医学数据集详细整理
 
 https://github.com/Mengqi97/chinese-medical-dataset?tab=readme-ov-file#1%E5%88%86%E7%B1%BB%E5%8C%BB%E7%96%97%E9%97%AE%E7%AD%94cmb-chinese-medical-benchmark
+
+
+## QA Sources
+
+
